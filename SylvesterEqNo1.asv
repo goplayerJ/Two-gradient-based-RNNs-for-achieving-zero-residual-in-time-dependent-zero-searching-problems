@@ -1,0 +1,3 @@
+function f=SylvesterEqNo1(t,x)
+    f=A1(t)*X(t)-B1(t);
+end
